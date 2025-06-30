@@ -5,7 +5,7 @@ Feel free to connect with me or check out my repositories to see what I'm workin
 
 I’m interested in -  
 
-- 🌱 I’m currently learning basics of c/c++ and data strutures and algorithms
+- 🌱 I’m currently c/c++ and data strutures and algorithms
 - 💞️ I’m looking to collaborate to learn and gain knowledge on Blockchain and cryptography............
 - 📫 How to reach me (gmail-gokul00036@gmail.com)
 <!---
