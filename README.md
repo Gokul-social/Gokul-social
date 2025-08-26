@@ -56,6 +56,6 @@ Many To Be Conquered In Future ......
 
 ## 🌍 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/gokul-v-47878a311/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/gokul-v-47878a311/])
 
-[![Twitter](https://img.shields.io/badge/X-black?style=flat&logo=twitter&logoColor=white)]([https://twitter.com/yourhandle](https://x.com/Gokul_000))
+[![Twitter](https://img.shields.io/badge/X-black?style=flat&logo=twitter&logoColor=white)]([https://x.com/Gokul_000])
