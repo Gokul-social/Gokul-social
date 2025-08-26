@@ -48,6 +48,9 @@ You can click the Preview link to take a look at your changes.
 
 🏅 IIT Madras Smart Hostel For Student Hackathon — Finalist among top 25 teams
 
+🏅 BNB Hack Bombay - Finalist Among 40 Teams
+💡 Pitched 2 Ideas Regchain and DataVault
+
 🏅 ExploiX CTF - Finalist Among 40 Teams
 
 Many To Be Conquered In Future ......
