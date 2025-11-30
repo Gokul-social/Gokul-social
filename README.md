@@ -24,13 +24,11 @@ echo "Welcome back, Gokul. Commit. Build. Repeat."
 ![NPM](https://img.shields.io/badge/NPM-000?style=flat&logo=npm&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-000?style=flat&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-000?style=flat&logo=mongodb&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-000?style=flat&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-000?style=flat&logo=pandas&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-000?style=flat&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-000?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-000?style=flat&logo=github&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000?style=flat&logo=notion&logoColor=white)
-![Prettier](https://img.shields.io/badge/Prettier-000?style=flat&logo=prettier&logoColor=white)
+
 
 ## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gokul-v-47878a311/)
