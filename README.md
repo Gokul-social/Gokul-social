@@ -1,13 +1,13 @@
 ```bash
 #!/bin/bash
-# === Booting up GOKUL-CHAIN v3.0 ===
+# === Booting up GOKUL-CHAIN ===
 echo ">> Initializing Blockchain Node..."
 sleep 1
 echo ">> Loading Smart Contracts..."
 sleep 1
 echo ">> Establishing connection to DeFi mainnet..."
 sleep 1
-echo ">> Node synced successfully ✅"
+echo ">> Node synced successfully "
 sleep 1
 echo ">> System ready. Deploy when you’re ready, Dev."
 echo "----------------------------------------------"
@@ -45,8 +45,8 @@ echo "Welcome back, Gokul. Commit. Build. Repeat."
 ```bash
 
 # === SOCIAL NODE STATUS ===
-echo "LinkedIn | GitHub | X | Discord | ETH Stack → Connected ✅"
+echo "LinkedIn | GitHub | X | Discord | ETH Stack → Connected"
 echo "Ping test: All nodes responsive."
 echo "-------------------------------------------"
-echo "Social Network Synchronization Complete 🌐"
+echo "Social Network Synchronization Complete"
 ```
