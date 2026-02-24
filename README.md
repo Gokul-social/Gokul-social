@@ -40,7 +40,10 @@ echo "Welcome back, Gokul. Commit. Build. Repeat."
 
 
 ## GitHub Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=Gokul-social&theme=graywhite&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gokul-social&theme=graywhite&hide_border=true" width="50%" alt="Gokul's GitHub Streak" />
+</p>
+
 
 ```bash
 
