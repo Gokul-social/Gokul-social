@@ -12,7 +12,6 @@
 [![Discord](https://img.shields.io/badge/Discord-000?style=flat&logo=discord&logoColor=white)](https://discordapp.com/users/765774656401047554)
 
 
-
 ## GitHub Stats:
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gokul-social&theme=graywhite&hide_border=true" width="60%" alt="Gokul's GitHub Streak" />
