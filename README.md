@@ -5,7 +5,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=flat&logo=github&logoColor=white)](https://github.com/Gokul-social)  
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-000?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/Gokul__0)  
+[![LeetCode](https://img.shields.io/badge/LeetCode-000?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/Gokul_0)  
 
 [![Ethereum Stack Exchange](https://img.shields.io/badge/Ethereum%20StackExchange-000?style=flat&logo=ethereum&logoColor=white)](https://ethereum.stackexchange.com/users/159861/gokul-v)
 
