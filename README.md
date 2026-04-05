@@ -13,5 +13,5 @@
 
 ## GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gokul-social&theme=graywhite&hide_border=true" width="60%" alt="Gokul's GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gokul-social&theme=graywhite&hide_border=true" width="60%" alt="Gokul-social's GitHub Streak" />
 </p>
