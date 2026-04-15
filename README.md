@@ -1,5 +1,5 @@
 ## Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gokul-v-47878a311/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gokul-social)
 
 [![X (Twitter)](https://img.shields.io/badge/X-000?style=flat&logo=x&logoColor=white)](https://x.com/Gokul_000)
 
