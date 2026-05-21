@@ -1,4 +1,4 @@
-## Socials:
+## Connect Through:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gokul-social)
 
 [![X (Twitter)](https://img.shields.io/badge/X-000?style=flat&logo=x&logoColor=white)](https://x.com/Gokul_000)
@@ -11,8 +11,3 @@
 
 [![Discord](https://img.shields.io/badge/Discord-000?style=flat&logo=discord&logoColor=white)](https://discordapp.com/users/765774656401047554)
 
-
-## GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gokul-social&theme=graywhite&hide_border=true" width="60%" alt="Gokul-social's GitHub Streak" />
-</p>
